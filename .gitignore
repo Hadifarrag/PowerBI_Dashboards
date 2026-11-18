@@ -1,0 +1,16 @@
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary & Auto-recovery files
+~$*
+*.tmp
+*.temp
+
+# Large data extracts (if exceeding 100MB)
+*.zip
+*.tar.gz
+*.7z
